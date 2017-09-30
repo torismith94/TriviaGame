@@ -1,0 +1,26 @@
+#body {
+	color: white;
+	width: 1276px;
+	height: 544px;
+	text-align: center;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+h1 {
+	color: white;
+	text-align: center;
+	font-family: 'Droid Sans', sans-serif;
+}
+
+#timer {
+	font-weight: bold;
+	font-size: 24px;
+	margin: 20px;
+	font-family: 'Droid Sans', sans-serif;
+}
+#quiz {
+	color: white;
+	font-family: 'Droid Sans', sans-serif;
+	font-size: 18px;
+	text-align: center;
+}
